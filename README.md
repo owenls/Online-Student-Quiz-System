@@ -1,5 +1,7 @@
 # student-quiz-system
 
+![](demo.gif)
+
 ## Overview
 This project is a 3-tier network-based system which tests students' ability to demonstrate their understanding of contemporary programming languages by correctly answering multi-choice questions and short programming challenges.
 
