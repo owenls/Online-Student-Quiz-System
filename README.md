@@ -1,5 +1,6 @@
 # student-quiz-system
 
+Demo GIF (may take a minute to load if you see nothing):
 ![](demo.gif)
 
 ## Overview
